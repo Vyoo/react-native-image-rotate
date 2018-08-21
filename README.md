@@ -10,7 +10,7 @@ to create full-featured crop tool
 
 First install the package via npm
 
-`$ npm install react-native-image-rotate`
+`$ npm install vyoo/react-native-image-rotate --save`
 
 then use [rnpm](https://github.com/rnpm/rnpm) to link native libraries
 
